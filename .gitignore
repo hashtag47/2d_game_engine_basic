@@ -1,0 +1,11 @@
+# Program assets
+./assets
+
+# Compiled binary and build files
+gameengine
+*.o
+build/
+
+# Editor and OS files
+.vscode/
+.DS_Store
