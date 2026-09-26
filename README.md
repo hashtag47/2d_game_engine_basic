@@ -1,6 +1,6 @@
 <div align="center">
 
-## 2D Game Engine Wireframe
+## 2D Game Engine
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
