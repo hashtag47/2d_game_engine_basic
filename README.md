@@ -70,3 +70,12 @@ flowchart TB
 ## Credits
 
 Thanks to **Gustavo Pezzi** for his online 2D game engine course at [Pikuma](https://pikuma.com).
+
+## Third-party libraries
+
+Included in `libs/` under their respective licences:
+
+- [GLM](https://github.com/g-truc/glm): MIT
+- [Dear ImGui](https://github.com/ocornut/imgui): MIT
+- [sol2](https://github.com/ThePhD/sol2): MIT
+- [Lua](https://www.lua.org): MIT
